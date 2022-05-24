@@ -407,8 +407,8 @@
    <widget class="QPushButton" name="draw">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>420</y>
+      <x>200</x>
+      <y>410</y>
       <width>192</width>
       <height>24</height>
      </rect>
@@ -420,8 +420,8 @@
    <widget class="QPushButton" name="clear">
     <property name="geometry">
      <rect>
-      <x>220</x>
-      <y>420</y>
+      <x>0</x>
+      <y>410</y>
       <width>192</width>
       <height>24</height>
      </rect>
@@ -433,8 +433,8 @@
    <widget class="QPushButton" name="exit">
     <property name="geometry">
      <rect>
-      <x>420</x>
-      <y>420</y>
+      <x>410</x>
+      <y>410</y>
       <width>192</width>
       <height>24</height>
      </rect>
